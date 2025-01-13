@@ -13,4 +13,4 @@ This is analysis relating to a bank and its operations in Kenya
 9. HasCrCard - Idenfier for Credit Card acquisition
 10. IsActiveMember - Identifier of active status
 11. EstimatedSalary - Estimate of salary for CustomerId's
-12 .Exited - Status for CustomerId attrition
+12. Exited - Status for CustomerId attrition
