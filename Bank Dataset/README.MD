@@ -10,7 +10,7 @@ This is analysis relating to a bank and its operations in Kenya
 6. Tenure - Time frame of product full acquisition
 7. Balance - The amount of money the bank has in value
 8. NumOfProducts - Number of products acquired.
-9. HasCrCard - Idenfier for Credit Card acquisition
+9. HasCrCard - Identifier for Credit Card acquisition
 10. IsActiveMember - Identifier of active status
 11. EstimatedSalary - Estimate of salary for CustomerId's
 12. Exited - Status for CustomerId attrition
