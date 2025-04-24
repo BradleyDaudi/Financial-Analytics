@@ -18,7 +18,7 @@ The dataset includes 15,000+ insurance policy records with the following key fie
 ## ✅ Project Goals
 - Measure policy status distribution (LAPSE vs IN-FORCE).
 - Analyze premium collection rates vs. expectations.
-- Evaluate performance by branches, agents, managers.
+- Evaluate performance by branches, agents, and managers.
 - Identify top-performing policy types.
 - Build a Tableau dashboard for real-time stakeholder insights.
 
@@ -27,7 +27,7 @@ The dataset includes 15,000+ insurance policy records with the following key fie
 ## 📊 Key Analyses & Insights
 
 ### 1. **Policy Status Breakdown**
-- 60% of policies are active (IN-FORCE), while 40% have lapsed.
+- 69.17% of policies are active (IN-FORCE), while 30.83% have lapsed.
 - Lapse rates indicate a need for stronger customer engagement strategies.
 
 ### 2. **Premium Collection Analysis**
