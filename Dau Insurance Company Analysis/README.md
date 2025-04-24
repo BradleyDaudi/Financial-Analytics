@@ -11,7 +11,7 @@ The dataset includes 15,000+ insurance policy records with the following key fie
 - **Sum Assured & Annual Prem:** Financial terms of the policy.
 - **Policy_Status:** Lapse or In-FORCE.
 - **N_BOOKED_PREM & N_EXPECTED_PREM:** Collected vs. expected premiums.
-- **Agent_ID / Manager_ID:** Sales and supervisory staff IDs.
+- **Agent_ID / Manager_ID:** Anonymized Sales and supervisory staff IDs.
 - **Branch:** Regional branch managing the policy.
 - **Policy_Type:** Product type classification.
 
